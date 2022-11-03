@@ -7,7 +7,8 @@ Data folder:
 - Bus NYC Mass Transit Spatial Layers
 - Bus Stop Shelters
 
-Indicators by Year Folder
+
+Indicators by Year Folder (This data was created within MTA Customer Feedback Exploratory Analysis): 
 - General Accessibility by Year
 - Indirect Accessibility by Year
 - Mobility Accessibility by Year
